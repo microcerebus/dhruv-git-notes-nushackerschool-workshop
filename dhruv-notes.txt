@@ -11,6 +11,10 @@
 			(-- oneline: shows all commits previously made in oneline and their unique hash ids)
 
 11. git diff: shows us what has changed between out working directory and staging area
-
+12. git branch <branch-name>: displays which branch user is currently accessing (master by default)
+13. git checkout <branch-name>: changes active branch from the branch which the user is currently accessing to branch-name
+13. git merge: 
 (add --> status --> commit 'message')
 [stages-------------repo]
+
+master --> points to the latest commit on the branch (e.g. 1st commit then 2nd, then 3rd, etc.)
