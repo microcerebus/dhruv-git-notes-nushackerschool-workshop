@@ -1,0 +1,7 @@
+1. pwd: lists present working directory
+2. ls: directory listing
+3. cd <dir-name>: changes current active directory
+4. mkdir: makes new directory
+5. touch <filename.ext>: creates a new file with name <filename.ext>
+6. git init: intialises git inside a folder/ directory
+7. 
