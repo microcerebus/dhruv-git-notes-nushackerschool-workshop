@@ -13,7 +13,8 @@
 11. git diff: shows us what has changed between out working directory and staging area
 12. git branch <branch-name>: displays which branch user is currently accessing (master by default)
 13. git checkout <branch-name>: changes active branch from the branch which the user is currently accessing to branch-name
-13. git merge <branch-name>: merges branch-name and current branch together (actually shifts pointer to current branch to branch-name (e.g. from master to featureA))
+				 <commit-id>: switches to <commit-id>
+14. git merge <branch-name>: merges branch-name and current branch together (actually shifts pointer to current branch to branch-name (e.g. from master to featureA))
 
 (add --> status --> commit 'message')
 [stages-------------repo]
