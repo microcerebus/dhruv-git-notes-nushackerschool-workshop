@@ -10,5 +10,7 @@
 10. git log: shows us all the commits that were made
 			(-- oneline: shows all commits previously made in oneline and their unique hash ids)
 
+11. git diff: shows us what has changed between out working directory and staging area
+
 (add --> status --> commit 'message')
 [stages-------------repo]
