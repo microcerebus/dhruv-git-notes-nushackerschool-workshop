@@ -8,3 +8,7 @@
 8. git add <filename.ext>: adds a certain file to be tracked
 9. git commit -m 'MESSAGE': commits a change to the git repo
 10. git log: shows us all the commits that were made
+			(-- oneline: shows all commits previously made in oneline and their unique hash ids)
+
+(add --> status --> commit 'message')
+[stages-------------repo]
